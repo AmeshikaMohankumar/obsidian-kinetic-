@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Kinetic",
+  "description": "High-performance dark mode task orchestration and deep work environment for engineers and knowledge workers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
